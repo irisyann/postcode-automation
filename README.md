@@ -1,7 +1,6 @@
 # postcode-automation
 Automated postcode processing with Python.
 
-## STEP 1: clean the postcode column in excel report (trim whitespace, remove extra words)
-## STEP 2: copy and paste column to userPostCodes.csv
-## STEP 3: run without debugging
-## STEP 4: check extractedStates.txt has same number of rows as number of entries
+1. Copy and paste your unprocessed postcodes to userPostCodes.csv
+2. Run main.py
+3. Check extractedStates.txt has same number of rows as number of entries
